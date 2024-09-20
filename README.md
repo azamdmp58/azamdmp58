@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m passionate about technology, gaming, and the
 - **Favorite Youtuber**: [@shykhseraj](https://www.youtube.com/@shykhseraj)
 - **Favorite Musician**: [@TheWeeknd](https://www.youtube.com/@TheWeeknd)
 - **Hobbies**: Cooking, Cleaning, Bathing, Playing Games (both physical sports and video games), and Sleeping
+- **Love Interest**: I have someone special in my life, but her name is a secret! ❤️
 
 ## 🌱 Learning
 Currently, I'm focused on improving my social skills and understanding human interaction better.
