@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I’m passionate about technology, gaming, and the
 - **Pronouns**: Moo/Moore
 - **Interests**: Machines, Creative Software, Environmental Sustainability
 - **Favorite Foods**: Watermelon and Pineapples
-- **Favorite Youtuber**: [@shykhseraj](https://www.youtube.com/channel/UCW4XlTf1h3Kn0is4_6eUE6g)
-- **Favorite Musician**: [@TheWeeknd](https://www.youtube.com/channel/UCx7P0K4_TL6z_2OY-LX5aLg)
+- **Favorite Youtuber**: [@shykhseraj](https://www.youtube.com/@shykhseraj)
+- **Favorite Musician**: [@TheWeeknd](https://www.youtube.com/@TheWeeknd)
 - **Hobbies**: Cooking, Cleaning, Bathing, Playing Games (both physical sports and video games), and Sleeping
 
 ## 🌱 Learning
