@@ -1,54 +1,110 @@
-# 👋 Hi there! I'm Azam, a Tech Enthusiast and Creative Software Developer! 🐄
+# ✨ Azam | Tech Enthusiast & Creative Software Developer
 
-Welcome to my GitHub profile! I’m passionate about technology, gaming, and the environment. I’m here to share my projects and collaborate with fellow developers.
+<div align="center">
 
-## 🚀 About Me
-- **Pronouns**: Moo/Moore
-- **Interests**: Machines, Creative Software, Environmental Sustainability
-- **Favorite Foods**: Watermelon and Pineapples
-- **Favorite Youtuber**: [@shykhseraj](https://www.youtube.com/@shykhseraj)
-- **Favorite Musician**: [@TheWeeknd](https://www.youtube.com/@TheWeeknd)
-- **Hobbies**: Cooking, Cleaning, Bathing, Playing Games (both physical sports and video games), and Sleeping
-- **Love Interest**: I have someone special in my life, but her name is a secret! ❤️
+```
+    (__) 
+    (oo) 
+   /------\/ 
+  / |    ||   
+ *  /\---/\ 
+    ~~   ~~   
+```
 
-## 🌱 Learning
-Currently, I'm focused on improving my social skills and understanding human interaction better.
+**`Digital Craftsman | Game Developer | Environmental Advocate`**
 
-## 💻 Skills
-### Programming Languages:
-- C#
-- C/C++
-- Rust
-- Python
-- Go
-- Java
-- GDScript
+[![Email](https://img.shields.io/badge/Email-azamdmp58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azamdmp58@gmail.com)
 
-### Game Development:
-- Unity 3D
-- Unreal Engine
-- Native
-- Godot
-
-### Computer Science Concepts:
-- Data Structures
-- Algorithms
-- Complexity Classes
-- System Design
-- Networking
-- Security
-
-### Graphics & AI:
-- Computer Graphics
-- OpenGL ES
-- Metal
-- WebGL
-- Game AI
-- Advanced Rendering
-
-## 📫 Contact
-I prefer to keep a low digital footprint and currently only have an email: [azamdmp58@gmail.com](mailto:azamdmp58@gmail.com).
+</div>
 
 ---
 
-Feel free to explore my repositories and reach out if you want to collaborate on exciting projects! 🌟
+## 🎯 Who Am I?
+
+> *A curious mind passionate about building creative software, exploring machines, and protecting our planet.*
+
+I'm a developer who believes in the intersection of technology and sustainability. When I'm not coding, you'll find me cooking up something delicious, enjoying a good game, or catching up on well-deserved sleep!
+
+<details>
+<summary>🐄 <b>Fun Facts About Me</b></summary>
+
+| | |
+|---|---|
+| 🏷️ **Pronouns** | Moo/Moore |
+| 🍉 **Favorite Foods** | Watermelon & Pineapples |
+| 🎬 **Favorite YouTuber** | [@shykhseraj](https://www.youtube.com/@shykhseraj) |
+| 🎵 **Favorite Musician** | [@TheWeeknd](https://www.youtube.com/@TheWeeknd) |
+| ❤️ **Love Interest** | Someone special (it's a secret!) |
+
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+### 🎮 Game Development
+
+| Engine | Experience |
+|:------:|:----------:|
+| ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | 3D Development |
+| ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) | Game Design |
+| ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) | Indie Projects |
+| 🔧 **Native** | Custom Engines |
+
+### 🧠 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📊 Data Structures    │  ⚡ Algorithms    │  🔄 System Design │
+│  🌐 Networking         │  🔒 Security      │  📈 Complexity    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🎨 Graphics & AI
+
+- **Rendering APIs**: OpenGL ES • Metal • WebGL
+- **Specialties**: Computer Graphics • Advanced Rendering • Game AI
+
+---
+
+## 🌱 Current Journey
+
+```diff
++ Improving social skills
++ Understanding human interaction better
++ Building meaningful connections
+```
+
+---
+
+## 🎲 Hobbies
+
+| 🍳 | 🧹 | 🛁 | 🎮 | ⚽ | 😴 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Cooking | Cleaning | Bathing | Gaming | Sports | Sleeping |
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+*I prefer to keep a low digital footprint* 🌿
+
+**📧 [azamdmp58@gmail.com](mailto:azamdmp58@gmail.com)**
+
+---
+
+⭐ *Feel free to explore my repositories and reach out for collaborations!* ⭐
+
+</div>
