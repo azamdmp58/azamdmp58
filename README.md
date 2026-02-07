@@ -64,10 +64,10 @@ I'm a developer who believes in the intersection of technology and sustainabilit
 ### 🧠 Core Competencies
 
 ```
-┌─────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐
 │  📊 Data Structures    │  ⚡ Algorithms    │  🔄 System Design │
 │  🌐 Networking         │  🔒 Security      │  📈 Complexity    │
-└─────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🎨 Graphics & AI
